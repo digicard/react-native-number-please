@@ -15,9 +15,9 @@ Generate react-native pickers with range numbers.
 Add the package to your project
 
 ```bash
-yarn add react-native-number-please
+yarn add digicard-react-native-number-please
 
-npm install -S react-native-number-please
+npm install -S digicard-react-native-number-please
 ```
 
 ## Usage
